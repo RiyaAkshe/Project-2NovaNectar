@@ -5,7 +5,7 @@ Welcome to our travel platform where we specialize in creating unforgettable jou
 
 Destination
 Dates: 07/15/2024 - 07/15/2024
-# of People
+
 Save this search
 Our Expertise
 We pride ourselves on delivering unparalleled excellence in the travel industry. With years of experience and a dedicated team, we offer a comprehensive suite of services designed to meet your diverse needs:
